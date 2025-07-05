@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey, I'm Leotrim 
 
-<!--
-**leotrimhaliti/leotrimhaliti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building fast, clean, and functional apps — usually with **React** on the frontend and **Node.js** on the backend. I like projects that solve real problems (or at least feel fun to build).
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript, C#, SQL  
+- **Frontend:** React, Vite, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Tools:** Git, Netlify, Firebase, PostgreSQL, VS Code  
+
+## 💡 A Few Projects
+
+### 🎯 [CS2 Crosshair Demo Extractor](https://github.com/leotrimhaliti)  
+Tired of pausing demos to copy someone’s crosshair? This tool extracts it straight from a CS2 demo file — load, grab, play.
+
+### ⌨️ [Text Speed Racer](https://textspeedracer.netlify.app/)  
+A typing game where you race against an AI that *adapts* to your speed. Go slow and it chills. Go fast and it pushes back. Built to sharpen your typing without boring drills.
+
+## 📌 About Me
+
+- 📍 Prishtina, Kosovo  
+- 💬 Always down to talk dev, ideas, or collabs  
+- 🎯 Constantly learning and refining my craft  
+- 🤝 Available for freelance or part-time opportunities  
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://linkedin.com/in/leotrimhaliti)
+- [GitHub](https://github.com/leotrimhaliti)
+- [Email](mailto:leotrimhaliti@gmail.com)
