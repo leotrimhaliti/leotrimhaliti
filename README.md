@@ -11,7 +11,7 @@ I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building
 
 ## 💡 A Few Projects
 
-### 🎯 [CS2 Crosshair Demo Extractor](https://github.com/leotrimhaliti)  
+### 🎯 [CS2 Crosshair Demo Extractor](https://github.com/leotrimhaliti/demo-crosshair-code)
 Tired of pausing demos to copy someone’s crosshair? This tool extracts it straight from a CS2 demo file — load, grab, play.
 
 ### ⌨️ [Text Speed Racer](https://textspeedracer.netlify.app/)  
