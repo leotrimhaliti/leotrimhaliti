@@ -12,7 +12,8 @@ I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building
 ## 💡 A Few Projects
 
 ### ⌨️ [Text Speed Racer](https://textspeedracer.netlify.app/)  
-A typing game where you race against an AI that *adapts* to your speed. Go slow and it chills. Go fast and it pushes back. Built to sharpen your typing without boring drills.
+Text Speed Racer is a real-time multiplayer typing race game where you can challenge your friends (or strangers!) to see who types the fastest.
+
 
 ### 🎯 [CS2 Crosshair Demo Extractor](https://github.com/leotrimhaliti/demo-crosshair-code)
 Tired of pausing demos to copy someone’s crosshair? This tool extracts it straight from a CS2 demo file — load, grab, play.
@@ -28,5 +29,4 @@ Tired of pausing demos to copy someone’s crosshair? This tool extracts it stra
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://linkedin.com/in/leotrimhaliti)
-- [GitHub](https://github.com/leotrimhaliti)
 - [Email](mailto:leotrimhaliti@gmail.com)
