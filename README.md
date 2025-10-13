@@ -5,9 +5,8 @@ I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building
 ## 🛠️ Tech Stack
 
 - **Languages:** JavaScript, C#, SQL  
-- **Frontend:** React, Vite, Tailwind CSS  
+- **Frontend:** React, Vite  
 - **Backend:** Node.js, Express.js  
-- **Tools:** Git, PostgreSQL, VS Code  
 
 ## 💡 A Few Projects
 
@@ -23,7 +22,6 @@ Tired of pausing demos to copy someone’s crosshair? This tool extracts it stra
 
 - 📍 Prishtina, Kosovo  
 - 💬 Always down to talk dev, ideas, or collabs  
-- 🎯 Constantly learning and refining my craft  
 - 🤝 Available for freelance or part-time opportunities  
 
 ## 📫 Let’s Connect
