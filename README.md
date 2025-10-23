@@ -4,18 +4,18 @@ I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, C#, SQL  
+- **Languages:** JavaScript, SQL  
 - **Frontend:** React, Vite  
 - **Backend:** Node.js, Express.js  
 
 ## 💡 A Few Projects
 
 ### ⌨️ [Text Speed Racer](https://textspeedracer.netlify.app/)  
-— race your friends or randoms to see who types fastest.
+- race your friends or randoms to see who types fastest.
 
 
 ### 🎯 [CS2 Crosshair Demo Extractor](https://github.com/leotrimhaliti/demo-crosshair-code)
-Tired of pausing demos to copy someone’s crosshair? This tool extracts it straight from a CS2 demo file — load, grab, play.
+- extract crosshairs from CS2 demos — load, grab, play.
 
 
 ## 📌 About Me
