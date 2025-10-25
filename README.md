@@ -6,7 +6,7 @@ I'm a **full-stack web developer** based in Prishtina 🇽🇰. I enjoy building
 
 - **Languages:** JavaScript, SQL  
 - **Frontend:** React, Vite  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Supabase
 
 ## 💡 A Few Projects
 
